@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kode+Mono&weight=600&size=30&duration=3000&pause=1500&color=0c8af7&center=true&vCenter=true&random=false&width=900&lines=Seasoned+Full-stack+Developer;Skillful+.NET+Developer;Talented+AI+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kode+Mono&weight=600&size=30&duration=3000&pause=1500&color=0c8af7&center=true&vCenter=true&random=false&width=900&lines=Seasoned+Full-Stack+Developer;Skillful+.NET+Developer;Talented+AI+Engineer)](https://git.io/typing-svg)
 
 ## Languages and Tools  
 <div align="center">  
