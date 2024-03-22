@@ -22,7 +22,7 @@
 </div>
 
 <br>
-<p align="center"><img height="180em" src="https://github-readme-stats-p1rh.vercel.app/api?username=justingolomb&hide_border=true&count_private=true&show_icons=true" alt="justingolomb" align = "center"/></p>
+<!-- <p align="center"><img height="180em" src="https://github-readme-stats-p1rh.vercel.app/api?username=justingolomb&hide_border=true&count_private=true&show_icons=true" alt="justingolomb" align = "center"/></p> -->
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=justingolomb) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=justingolomb&hide=Html) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=justingolomb) |
 | :-: | :-: | :-: |
