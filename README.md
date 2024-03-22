@@ -29,6 +29,7 @@
 
 <br/>  
 
+<!--
 # 💻 My favorite tools and technologies
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
@@ -150,3 +151,4 @@
  </tr>
 </table>
 <br><br>
+-->
